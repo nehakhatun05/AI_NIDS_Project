@@ -20,6 +20,8 @@ This project implements a sophisticated Network Intrusion Detection System (NIDS
 <img width="1919" height="1033" alt="Screenshot 2026-01-03 214817" src="https://github.com/user-attachments/assets/5872a0ad-4851-492b-a38f-ba10fbf4187d" />
 <img width="1918" height="1029" alt="Screenshot 2026-01-03 214749" src="https://github.com/user-attachments/assets/306ad92f-40d6-4cdf-ac58-8005d816bfd2" />
 <img width="1919" height="1036" alt="Screenshot 2026-01-03 214724" src="https://github.com/user-attachments/assets/eeb817e8-f722-4f85-82b5-766d36f37fbe" />
+
+live link :- ainidsproject-production.up.railway.app
 ## 🚀 Installation
 
 ### Prerequisites
@@ -207,5 +209,6 @@ This project is provided for educational and research purposes.
 ---
 
 **Made with ❤️ for Cybersecurity Education**
+
 
 
